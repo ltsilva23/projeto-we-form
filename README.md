@@ -58,3 +58,6 @@ O projeto **We Form** facilita o cadastro de entidades e a gestão de seus campo
 2. Abra o arquivo index.html em qualquer navegador.
 
 
+## Veja o Andamento do Projeto
+Você pode ver o andamento do projeto acessando o link abaixo:
+[Ver Projeto no Netlify](https://projeto-we-form.netlify.app/)
